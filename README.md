@@ -25,10 +25,10 @@ Model
 Built a Logistic Regression model using Pclass, Sex, Age, Fare, and 
 FamilySize as features.
 
-Result: 80.4% accuracy** on held-out test data.
+Result: 80.4% accuracy on held-out test data.
 
 Tools
 Python, pandas, matplotlib, scikit-learn, Google Colab
 
-## Files
+Files
 - `titanic_analysis.ipynb` — full analysis and model code
