@@ -15,7 +15,7 @@ Key Findings
 2. Passenger class mattered a lot — survival dropped from 63% (1st class) 
    to 47% (2nd) to 24% (3rd class), likely tied to cabin location and 
    lifeboat access.
-3. Children had the best odds among age groups** — 58% survival rate, 
+3. Children had the best odds among age groups — 58% survival rate, 
    dropping steadily to 23% for seniors.
 4. Small families fared best — solo travelers had only 30% survival, 
    which climbed to 72% for families of 3, then dropped sharply for 
